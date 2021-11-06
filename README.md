@@ -19,7 +19,7 @@
 <br />
 <br />
 
-<img align="right" src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=adam0908&cache=c">
+<img align="right" src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=klementined&cache=c">
 
 ### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
