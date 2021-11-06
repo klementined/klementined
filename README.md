@@ -19,8 +19,7 @@
 <br />
 <br />
 
-<img align="right" src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=tang2burin&cache=c">
-<img align="center" src="https://komarev.com/ghpvc/?username=bbirin">
+<img align="right" src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=klementined&cache=c">
 
 ### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
