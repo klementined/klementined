@@ -29,10 +29,9 @@
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klementined&theme=react" />
-
+</a>
 <br/>
 <br/>
 <br/>
 ### Baekjoon
 <img align="right" src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=klementined&cache=c">
-</a>
