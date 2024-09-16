@@ -1,4 +1,4 @@
-## Random student in Canada that likes to code
+## UofT Computer Engineering 2T7
 
 ### About me 🐟 
 - 📚 First Year Computer Engineering Student at University of Toronto
