@@ -1,9 +1,7 @@
 ## UofT Computer Engineering 2T7
 
 ### About me 🐟 
-- 📚 Second Year Computer Engineering Student at University of Toronto
-- 🌱 Learning Binary Tree Algorithm
-- 😴 Working on Baekjoon (Korean Leetcode)
+📚 Second Year Computer Engineering Student at University of Toronto
 
 
 
